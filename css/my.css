@@ -1,0 +1,31 @@
+.container {
+    background-color: #AFF;
+}
+
+.header {
+    background-color: #FAF;
+}
+
+.footer {
+    background-color: #AFd;
+}
+ 
+.carousel-indicators {
+    top: 1.5rem;
+    right: 1.5rem;
+    bottom: auto;
+    left: auto;
+    width: 1rem;
+    margin-left: 0;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel-item{
+    height: 32rem;
+    background-color: #685
+}
